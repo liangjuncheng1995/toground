@@ -4,7 +4,7 @@
     <div class="content">
       <div class="content-middle">
         <div class="middle-title">
-          实时提现记
+          实时提现记录
         </div>
         <div class="fg">
           <ul class="fg-content">
