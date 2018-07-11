@@ -1,6 +1,6 @@
 <template lang="html">
   <div>
-    <img src="//appwebsite.oss-cn-shenzhen.aliyuncs.com/Toground/image/bg.png" alt="" class="bg">
+    <img src="../assets/bg.png" alt="" class="bg">
     <div class="content">
       <div class="content-middle">
         <div class="middle-title">
